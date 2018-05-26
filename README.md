@@ -1,2 +1,1 @@
-# skcadmin
-通用后台管理
+# Vue.js 练习
